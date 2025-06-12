@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://goodnewscodes.github.io/My_Portfolio/](https://goodnewscodes.github.io/My_Portfolio/)
 
-- 💬 Ask me about **Python, Dart, Flutter**
+- 💬 Ask me about **Python, Dart, Flutter and anything Software**
 
 - 📫 How to reach me **goodnewsanwana14@gmail.com**
 
