@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, I'm Goodnews Anwana</h1>
-<h3 align="center">A passionate Software Developer from Nigeria</h3>
+<h3 align="center">An experienced Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goodnewscodes&label=Profile%20views&color=0e75b6&style=flat" alt="goodnewscodes" /> </p>
 
-- 🔭 I’m currently working on **a School's Attendance App**
+- 🌱 I’m currently learning **React & React Native**
 
-- 🌱 I’m currently learning **AI/ML**
-
-- 🤝 I’m looking for help with **my Hospital Management Software**
-
-- 👨‍💻 All of my projects are available at [https://goodnewscodes.github.io/My_Portfolio/](https://goodnewscodes.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available on [My Portfolio](https://goodnewscodes.github.io)
 
 - 💬 Ask me about **Python, Dart, Flutter and anything Software**
 
 - 📫 How to reach me **goodnewsanwana14@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/GoodnewsCodes/Resume/blob/main/Goodnews%20Anwana's%20Resume.pdf](https://github.com/GoodnewsCodes/Resume/blob/main/Goodnews%20Anwana's%20Resume.pdf)
+- 📄 Know about my experiences, [View Resume](https://github.com/GoodnewsCodes/Resume/blob/main/Goodnews%20Anwana's%20Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/goodnewscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnewscodes" height="30" width="40" /></a>
+<a href="https://x.com/goodnewscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnewscodes" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/goodnews-anwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="goodnews-anwana" height="30" width="40" /></a>
 <a href="https://instagram.com/goodnewscodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goodnewscodes" height="30" width="40" /></a>
 </p>
